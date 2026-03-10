@@ -1,0 +1,7 @@
+{
+  "name": "SecureMediaNet Prototype",
+  "description": "An experimental networking system demonstrating secure media transmission with custom packet structures, encryption, and integrity verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
